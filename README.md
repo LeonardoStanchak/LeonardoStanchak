@@ -1,10 +1,10 @@
 ### Hi there my name is Leonardo Stanchak
 
-Working as a java backend developer with spring boot and Knowledge of SQL SERVER
-Studying Computer Engineering
-Studying and training to be a software engineer.
-Currently studying node.js and typescript for web development to become a fullstack developer
-Contact me by email : leonardostancxhak01@hotmail.com
+Working as a java backend developer with spring boot and Knowledge of SQL SERVER<br>
+Studying Computer Engineering<br>
+Studying and training to be a software engineer.<br>
+Currently studying node.js and typescript for web development to become a fullstack developer<br>
+Contact me by email : leonardostancxhak01@hotmail.com<br>
 
 <div align="center">
   <a href="https://github.com/LeonardoStanchak">
@@ -32,3 +32,11 @@ Contact me by email : leonardostancxhak01@hotmail.com
   ![Snake animation](https://github.com/LeonardoStanchak/LeonardoStanchak/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  ### Profile visits
+<p align="center">
+<img height="25px" alingn="center" src="https://profile-counter.glitch.me/AiltonPiresJunior/count.svg" />
+</p>
+</p>
+<div>
+
