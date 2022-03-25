@@ -38,5 +38,4 @@ Contact me by email : leonardostancxhak01@hotmail.com<br>
 <img height="25px" alingn="center" src="https://profile-counter.glitch.me/LeonardoStanchak/count.svg" />
 </p>
 </p>
-<div>
 
